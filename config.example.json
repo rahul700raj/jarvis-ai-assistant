@@ -1,0 +1,10 @@
+{
+    "openai_api_key": "your-openai-api-key-here",
+    "wake_word": "hey jarvis",
+    "voice_engine": "pyttsx3",
+    "speech_rate": 150,
+    "volume": 0.9,
+    "language": "en-US",
+    "timeout": 5,
+    "phrase_time_limit": 10
+}
